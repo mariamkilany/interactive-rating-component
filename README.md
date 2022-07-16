@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/interactiveratingcomponent-t9HUX7uzDS))
-- Live Site URL: [site]([https://your-live-site-url.com](https://www.frontendmentor.io/solutions/interactiveratingcomponent-t9HUX7uzDS))
+- Solution URL: [solution](https://your-solution-url.com](https://www.frontendmentor.io/solutions/interactiveratingcomponent-t9HUX7uzDS)
+- Live Site URL: [site](https://your-live-site-url.com](https://www.frontendmentor.io/solutions/interactiveratingcomponent-t9HUX7uzDS)
 
 ### Built with
 
