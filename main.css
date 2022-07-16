@@ -1,0 +1,101 @@
+    *{
+        font-family: 'Overpass', sans-serif;
+    }
+    html{
+        height: 100%;
+    }
+    body{
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: hsl(216, 12%, 8%);
+    }
+    .container{
+        height: 20em;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        width: 20em;
+        justify-content: space-around;
+        background-color: #ffe8e1;
+        border-radius: 35px;
+        padding: 30px;
+        background-color: hsl(213, 19%, 18%);
+        color: white;
+    }
+    ul{
+        list-style: none;
+        display: flex;
+        margin: 0;
+        margin-inline-start: 0;
+        margin-block-start: 0;
+        margin-block-end: 0;
+        padding: 0;
+        margin-inline-end: 0;
+        padding-inline-start: 0;
+        width: 100%;
+        align-items: center;
+        justify-content: space-around;
+        align-content: center;
+        color: hsl(216, 12%, 54%);
+    }
+    .licon{
+        width: 100%;
+    }
+    .heading{
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .prg,.licon{
+        font-size: 15px;
+        color: hsl(216, 12%, 54%);
+    }
+    button{
+        border: none;
+        width: 100%;
+        padding: 12px;
+        background-color: #fc7614;
+        border-radius: 50px;
+        color: white;
+        text-transform: uppercase;
+        cursor: pointer;
+    }
+    button:hover{
+        background-color: white;
+        color: #fc7614;
+    }
+    .icon{
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(217deg 17% 28%);
+    border-radius: 50%;
+    }
+    li{
+        display: block;
+        width: 50px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: hsl(217deg 17% 28%);
+        border-radius: 50%;
+        cursor: pointer;
+    }
+    li:hover{
+        background-color: hsl(216, 12%, 54%);
+        color:white;
+    }
+    .selecte{
+        color: #fc7614;
+        background-color: hsl(217deg 17% 28%);
+        padding: 8px;
+        border-radius: 30px;
+        font-size: 12px;
+    }
+    .show{
+        display: none;
+        text-align: center;
+    }
